@@ -1,1 +1,1 @@
-#Equipo 0X - Nombre del curso
+# Equipo 01 - Procesos de Innovación en Ingeniería
