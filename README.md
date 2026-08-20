@@ -1,1 +1,1 @@
-Equipo 0X - Nombre del curso
+"Equipo 0X - Nombre del curso"
