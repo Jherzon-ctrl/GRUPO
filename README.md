@@ -30,11 +30,11 @@ Nos interesa trabajar los siguientes **Objetivos de Desarrollo Sostenible (ODS)*
 
 | Foto | Nombre                        | Rol                          | Intereses                                                                           |
 | ---- | ----------------------------- | ---------------------------- | ----------------------------------------------------------------------------------- |
-| 📷   | **Jherzon Huaroto Rosales**   | Encargado de documentación   | Comunicación científica                                                             |
-| 📷   | **Shina Mercedes Morales**    | Responsable de investigación | Diseño de prototipos, análisis de datos                                             |
-| 📷   | **Jhastin Ramos Flores**      | Programador                  | Inteligencia artificial, lógica                                                     |
-| 📷   | **Giraldo Olortegui Yumitza** | Diseñadora                   | Diseño de soluciones, creatividad e innovación de procesos                          |
-| 📷   | **Josue Job Zevallos Rezza**  | Líder del equipo             | Ciencia e ingeniería, creación de proyectos digitales, diseño y desarrollo personal |
+|    | **Jherzon Huaroto Rosales**   | Encargado de documentación   | Comunicación científica                                                             |
+|    | **Shina Mercedes Morales**    | Responsable de investigación | Diseño de prototipos, análisis de datos                                             |
+|    | **Jhastin Ramos Flores**      | Programador                  | Inteligencia artificial, lógica                                                     |
+|    | **Giraldo Olortegui Yumitza** | Diseñadora                   | Diseño de soluciones, creatividad e innovación de procesos                          |
+|    | **Josue Job Zevallos Rezza**  | Líder del equipo             | Ciencia e ingeniería, creación de proyectos digitales, diseño y desarrollo personal |
 
 
 ## 📌 Resumen Final
