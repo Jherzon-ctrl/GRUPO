@@ -1,5 +1,4 @@
 # Equipo 01 - Procesos de Innovación en Ingeniería
-# 🌍 Equipo 01 - Procesos de Innovación en Ingeniería
 
 **Carreras:** Ingeniería Ambiental / Ingeniería Informática / Ingeniería Industrial
 **Universidad Peruana Cayetano Heredia**
@@ -60,33 +59,6 @@ Como equipo interdisciplinario, buscamos integrar diferentes conocimientos para 
 Este README resume **quiénes somos, qué nos motiva y en qué Objetivos de Desarrollo Sostenible (ODS) queremos enfocar nuestro trabajo durante el curso**.
 
 Nuestro propósito es trabajar de manera colaborativa e interdisciplinaria para transformar problemas reales en oportunidades de innovación, combinando **ingeniería, tecnología, creatividad y sostenibilidad**.
-
----
-
-### 🛠️ Tecnologías y herramientas
-
-* GitHub
-* Programación
-* Inteligencia Artificial
-* Análisis de datos
-* Diseño de prototipos
-* Metodologías de innovación
-
----
-
-### 📁 Estructura del proyecto
-
-```text
-Equipo-01-Procesos-Innovacion-Ingenieria/
-│
-├── README.md
-├── documentos/
-├── investigaciones/
-├── prototipos/
-├── imagenes/
-└── presentaciones/
-```
-
 ---
 
 **Equipo 01 — Procesos de Innovación en Ingeniería**
