@@ -57,9 +57,3 @@ Como equipo interdisciplinario, buscamos integrar diferentes conocimientos para 
 ## 📌 Resumen Final
 
 Este README resume **quiénes somos, qué nos motiva y en qué Objetivos de Desarrollo Sostenible (ODS) queremos enfocar nuestro trabajo durante el curso**.
-
-Nuestro propósito es trabajar de manera colaborativa e interdisciplinaria para transformar problemas reales en oportunidades de innovación, combinando **ingeniería, tecnología, creatividad y sostenibilidad**.
----
-
-**Equipo 01 — Procesos de Innovación en Ingeniería**
-**Universidad Peruana Cayetano Heredia**
