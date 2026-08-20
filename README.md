@@ -29,20 +29,6 @@ Nos interesa trabajar los siguientes **Objetivos de Desarrollo Sostenible (ODS)*
 | 📷   | **Giraldo Olortegui Yumitza** | Diseñadora                   | Diseño de soluciones, creatividad e innovación de procesos                          |
 | 📷   | **Josue Job Zevallos Rezza**  | Líder del equipo             | Ciencia e ingeniería, creación de proyectos digitales, diseño y desarrollo personal |
 
----
-
-## 🚀 Nuestro Enfoque
-
-Como equipo interdisciplinario, buscamos integrar diferentes conocimientos para desarrollar soluciones que sean:
-
-* 💡 **Innovadoras**
-* 🌱 **Sostenibles**
-* 🤖 **Tecnológicas**
-* 📊 **Basadas en datos**
-* 🎨 **Creativas**
-* 👥 **Orientadas a las necesidades de la sociedad**
-
----
 
 ## 📌 Resumen Final
 
