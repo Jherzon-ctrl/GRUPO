@@ -9,23 +9,13 @@
 
 Somos el **Equipo 1 de Procesos de Innovación e Ingeniería**, conformado por estudiantes de Ingeniería Industrial, Ingeniería Informática e Ingeniería Ambiental, unidos por una misma idea: **transformar los desafíos de nuestro entorno en oportunidades para innovar**.
 
-### 🎯 Objetivo
+### Objetivo
 
 Convertir problemas del entorno en oportunidades de cambio, desarrollando soluciones innovadoras que combinen **creatividad, tecnología y sostenibilidad** para generar un impacto positivo en la sociedad.
 
 ---
 
-## 🌱 Objetivos de Desarrollo Sostenible (ODS)
-
 Nos interesa trabajar los siguientes **Objetivos de Desarrollo Sostenible (ODS)**:
-
-* 🌍 ODS 6 — Agua limpia y saneamiento
-* 🏙️ ODS 9 — Industria, innovación e infraestructura
-* 🌱 ODS 11 — Ciudades y comunidades sostenibles
-* ♻️ ODS 12 — Producción y consumo responsables
-* 🌎 ODS 13 — Acción por el clima
-
-> *Los ODS seleccionados pueden modificarse de acuerdo con los objetivos definidos por el equipo durante el curso.*
 
 ---
 
